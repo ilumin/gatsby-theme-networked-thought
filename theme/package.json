@@ -35,7 +35,6 @@
     "gatsby-source-filesystem": "^3.3.0",
     "gatsby-transformer-sharp": "^3.3.0",
     "prismjs": "^1.23.0",
-    "puppeteer": "^8.0.0",
     "react-dark-mode-toggle": "^0.2.0",
     "react-helmet": "^6.1.0",
     "react-stacked-pages-hook": "^0.4.6",
